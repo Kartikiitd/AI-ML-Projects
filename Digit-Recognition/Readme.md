@@ -1,11 +1,11 @@
-#Hand Written Digit Recognition
+##Hand Written Digit Recognition
 
 ## Project Overview
 This project predicts the hand written digit image using a multiple classification approach.
 
 ## Dataset
 -The dataset is sourced from keras inbuilt library and has images converted to matrices of 28*28 with a value ranging between 0 to 255.
--More the intensity signifies the precence of the part of the written digit
+-More the intensity signifies the presence of the part of the written digit
 
 ## Data Preprocessing
 - Convert the matrix of every data to a single dimensional array.
