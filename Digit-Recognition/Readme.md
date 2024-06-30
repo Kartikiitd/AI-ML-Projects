@@ -1,4 +1,4 @@
-##Hand Written Digit Recognition
+## Hand Written Digit Recognition
 
 ## Project Overview
 This project predicts the hand written digit image using a multiple classification approach.
